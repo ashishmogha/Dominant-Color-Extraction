@@ -12,3 +12,5 @@ Requirements:
 2. OpenCV
 3. K-Means Clustering 
 4. Scikit
+
+
