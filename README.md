@@ -1,6 +1,7 @@
 # Dominant-Color-Extraction
 
-K-means is a clustering algorithm that generates k clusters based on n data points. The number of clusters k must be specified ahead of time. Although algorithms exist that can find an optimal value of k.
+* K-means is a clustering algorithm that generates k clusters based on n data points. The number of clusters k must be specified ahead of time.
+* Although algorithms exist that can find an optimal value of k.
 
 In order to find the most dominant colors in our image, we treated our pixels as the data points and then applied k-means to cluster them
 
